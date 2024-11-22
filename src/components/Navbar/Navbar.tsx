@@ -67,7 +67,7 @@ const Navbar = () => {
             </li>
           </ul>
           <div className="flex gap-4 ml-6">
-            <button className="px-4 py-2 border border-gray-400 text-gray-600 rounded hover:bg-gray-200">
+            <button className="px-4 py-2 border border-gray-400  text-gray-600 rounded hover:bg-gray-200">
               Login
             </button>
             <button className="px-4 py-2 bg-black text-white rounded hover:bg-gray-800">
@@ -142,7 +142,7 @@ const Navbar = () => {
               <button className="w-full px-4 py-2 border border-gray-400 text-gray-600 rounded hover:bg-gray-200">
                 Login
               </button>
-              <button className="w-full px-4 py-2 bg-black text-white rounded hover:bg-gray-800">
+              <button className="w-full px-4 py-2 bg-bl text-white rounded hover:bg-gray-800">
                 Sign Up
               </button>
             </div>
